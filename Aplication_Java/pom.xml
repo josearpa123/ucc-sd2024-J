@@ -14,12 +14,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-<dependencies>
-    <dependency>
-        <groupId>org.postgresql</groupId>
-        <artifactId>postgresql</artifactId>
-        <version>42.6.0</version>
-    </dependency>
-</dependencies> 
+    <dependencies>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.2.27</version> <!-- Aquí puedes poner la versión más reciente -->
+        </dependency>
+    </dependencies>
 
 </project>
