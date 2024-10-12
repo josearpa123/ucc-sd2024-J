@@ -1,5 +1,9 @@
 -vscode/
 
+.idea
+
+
+*/.idea
 #Data
 data/Crime_Data_from_2020_to_Present_20240914.csv
 data/Crime_Data_from_2020_to_Present_full_20241010-full.csv
