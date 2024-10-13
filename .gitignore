@@ -16,3 +16,4 @@ data/Crime_Data_from_2020_to_Present_full_part2_20241010.cvs
 target
 *.bak
 .dbeaver/credentials-config.json
+venv/
