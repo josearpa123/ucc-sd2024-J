@@ -1,0 +1,1 @@
+docker run --name ejercicio-docker02 -p 8080:80 -d joseariasp/ejercicio-docker02
