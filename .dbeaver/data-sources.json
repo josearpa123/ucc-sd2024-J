@@ -20,6 +20,26 @@
 				},
 				"auth-model": "oracle_native"
 			}
+		},
+		"postgres-jdbc-192ee7e19c8-45101e188dc67dc7": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "postgres",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "postgres",
+				"url": "jdbc:postgresql://localhost:5432/postgres",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-chosen-role@": ""
+				},
+				"auth-model": "native"
+			}
 		}
 	},
 	"connection-types": {

@@ -8,8 +8,11 @@ import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
+    //private static final String DB_URL = "jdbc:postgresql://172.18.0.2:5432/postgres";
+        private static final String DB_URL = "jdbc:postgresql://172.18.0.1:5432/postgres";
 
-    private static final String DB_URL = "jdbc:postgresql://localhost:5432/postgres";
+    // ejemplo private static final String DB_URL = "jdbc:postgresql://172.18.0.2:5432/postgres";
+
     private static final String USER = "postgres";
     private static final String PASS = "postgres";
     public static void main(String[] args) {
