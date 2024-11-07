@@ -1,1 +1,1 @@
-docker run --rm joseariasp/app_java .
+docker run --rm joseariasp/app_java
