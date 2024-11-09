@@ -2,7 +2,7 @@ import psycopg2
 import time
 import random
 
-DB_URL = "dbname='postgres' user='postgres' host='localhost' password='postgres'"
+DB_URL = "host=localhost port=5433 dbname=maindb user=postgres password=postgres"
 
 def main():
     conn = psycopg2.connect(DB_URL)
