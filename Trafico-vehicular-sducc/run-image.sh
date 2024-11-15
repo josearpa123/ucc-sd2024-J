@@ -1,0 +1,1 @@
+docker run --rm trafico-vehicular-sducc
